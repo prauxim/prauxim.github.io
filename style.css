@@ -20,9 +20,21 @@ aasd {
   color: rgb(255, 204, 0);
 }
 
+#top a:visited {
+  font-family: "star_jediregular", Arial, serif;
+  color: rgb(255, 204, 0);
+}
+
+
 #bot a {
 	font-family: "Arial", Arial, serif;
 }
+
+#bot a:visited {
+  font-family: "star_jediregular", Arial, serif;
+  color: rgb(255, 204, 0);
+}
+
 	
 @font-face {
     font-family: 'star_jediregular';
