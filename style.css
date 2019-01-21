@@ -10,9 +10,18 @@ h1 {
   font-family: "star_jediregular", Arial, serif;
   color: rgb(255, 204, 0);
 }
-a {
+aasd {
   font-family: "star_jediregular", Arial, serif;
   color: rgb(255, 204, 0);
+}
+
+#top a {
+  font-family: "star_jediregular", Arial, serif;
+  color: rgb(255, 204, 0);
+}
+
+#bot a {
+	font-family: "Arial", Arial, serif;
 }
 	
 @font-face {
